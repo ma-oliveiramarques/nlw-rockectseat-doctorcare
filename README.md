@@ -1,6 +1,6 @@
-# 💻 Project
+# 💻 Doctor Care
 
-![preview of the project with the mobile and desktop sizes](./assets/preview_doctorCare.jpg 'Beauty Salon Landing Page Project')
+![preview of the project with the mobile and desktop sizes](./assets/preview_doctorCare.jpg 'DoctorCare Landing Page Project')
 
 DoctorCare it's a institutional page for a Health Company. This project was developed during the Next Level Week (NLW Return) event organized by [Rocketseat](https://www.rocketseat.com.br/).
 
